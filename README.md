@@ -1,4 +1,4 @@
-<<<<<<< Currency Converter
+##### Currency Converter
 
 Currency converter that uses Fixer.io API.
 
